@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Lato Light';
+    src: url('Lato-Light.ttf');
+}
+
 body {
     margin: auto;
     max-width: 40%;
@@ -20,15 +30,11 @@ body {
     }
 }
 
-h1 {
-    font-family: 'Lato Black', sans-serif;
-}
-
 hr {
     border: 2px solid black;
 }
 
 a {
-    font-family: 'Lato Light';
+    font-family: 'Lato Light', sans-serif;
     text-decoration: none;
 }
