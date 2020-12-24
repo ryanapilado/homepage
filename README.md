@@ -2,7 +2,7 @@
 
 This is my personal site, [ryanapilado.com](https://ryanapilado.com).
 
-* No template used, written from scratch. 
-* HTML/CSS only, no JavaScript required.
+* I didn't use a template. I wanted to try writing a (very very simple) web page from scratch.
+* HTML/CSS only, no JS.
 * Responsive design.
 * Uses [Lato](https://www.latofonts.com/lato-free-fonts/) font, under Open Font License.
