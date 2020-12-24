@@ -6,7 +6,3 @@ This is my personal site, [ryanapilado.com](https://ryanapilado.com).
 * HTML/CSS only, no JavaScript required.
 * Responsive design.
 * Uses [Lato](https://www.latofonts.com/lato-free-fonts/) font, under Open Font License.
-
-Simplicity is elegant.
-
-
